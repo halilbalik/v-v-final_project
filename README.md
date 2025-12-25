@@ -271,7 +271,10 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 **Proje Türü:** Yazılım Doğrulama ve Geçerleme (V&V) Projesi
 
-**Geliştirme Süresi:** Aralık 2025 \n,
+**Geliştirme Süresi:** Aralık 2025 
+
 **Platform:** Flutter (iOS/Android)
+
 **Test Kapsamı:** 32 test senaryosu
+
 **Geliştirenler:** Eftalya Beril Şahin - Halil İbrahim Balık
